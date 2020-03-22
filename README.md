@@ -1,2 +1,2 @@
-# palforge
-A simple React app to create and save palindromes
+# utilities
+A place to put useful stuff
